@@ -76,6 +76,8 @@ Use `webd` patterns and run its anti-generic design gate:
 - vary section rhythm and use real proof/product material instead of invented metrics, logos, testimonials, or fake dashboard data;
 - keep motion intentional and reduced-motion safe.
 
+For immersive or cinematic scrolling requests, prefer a lightweight two- or three-scene section inside a normal page rather than a full-page movie. Provide equivalent readable content, mobile and reduced-motion fallbacks, and confirm the performance budget and any paid generation or third-party tooling before using it.
+
 For small pages, a short direction note is enough. For multi-page or long-term brand work, create a lightweight design-system note.
 
 ### 4. Implementation
